@@ -7,7 +7,7 @@
 # belongs to the same chain. Every other field here is hashed.
 
 namespace = "_SUMMIT"
-eth_genesis_hash = "0x78ab9057bb67f95a6182969c5d755ac02802c98c0d2f0d8daeb52f4bddc60be5"
+eth_genesis_hash = "0x7314e8f639286af4a74914deba0bc9bb873ef84828e8ff82e024f139510b3b1f"
 leader_timeout_ms = 2000
 notarization_timeout_ms = 4000
 nullify_timeout_ms = 4000
